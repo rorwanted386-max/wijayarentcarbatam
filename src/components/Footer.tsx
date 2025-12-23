@@ -87,8 +87,8 @@ const Footer = () => {
               <li className="flex items-start gap-3">
                 <MapPin className="h-5 w-5 text-accent mt-0.5 flex-shrink-0" />
                 <span className="text-primary-foreground/80">
-                  Jl. Raya Utama No. 123<br />
-                  Kota Besar, Indonesia 12345
+                  Jl. Imam Bonjol<br />
+                  Nagoya, Batam
                 </span>
               </li>
               <li className="flex items-center gap-3">

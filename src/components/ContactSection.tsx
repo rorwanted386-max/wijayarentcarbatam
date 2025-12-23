@@ -82,8 +82,8 @@ const ContactSection = () => {
               <div>
                 <h3 className="font-display text-xl text-foreground mb-2">Lokasi Kami</h3>
                 <p className="text-muted-foreground">
-                  Jl. Raya Utama No. 123<br />
-                  Kota Besar, Indonesia 12345
+                  Jl. Imam Bonjol<br />
+                  Nagoya, Batam
                 </p>
               </div>
             </div>
