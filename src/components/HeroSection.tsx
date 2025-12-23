@@ -50,7 +50,7 @@ const HeroSection = () => {
                 <ArrowRight className="h-5 w-5" />
               </Button>
             </a>
-            <a href="https://wa.me/6281234567890" target="_blank" rel="noopener noreferrer">
+            <a href="https://wa.me/6282364375846?text=Halo,%20saya%20ingin%20booking%20mobil" target="_blank" rel="noopener noreferrer">
               <Button variant="heroOutline" size="xl" className="min-w-[200px]">
                 Booking Sekarang
               </Button>

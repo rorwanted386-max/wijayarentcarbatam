@@ -41,7 +41,7 @@ const Navbar = () => {
 
           {/* CTA Button */}
           <div className="hidden md:flex items-center gap-4">
-            <a href="https://wa.me/6281234567890" target="_blank" rel="noopener noreferrer">
+            <a href="https://wa.me/6282364375846?text=Halo,%20saya%20ingin%20booking%20mobil" target="_blank" rel="noopener noreferrer">
               <Button variant="hero" size="lg" className="gap-2">
                 <Phone className="h-4 w-4" />
                 Hubungi Kami
@@ -73,7 +73,7 @@ const Navbar = () => {
                   {link.name}
                 </a>
               ))}
-              <a href="https://wa.me/6281234567890" target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/6282364375846?text=Halo,%20saya%20ingin%20booking%20mobil" target="_blank" rel="noopener noreferrer">
                 <Button variant="hero" size="lg" className="w-full gap-2 mt-2">
                   <Phone className="h-4 w-4" />
                   Hubungi Kami
