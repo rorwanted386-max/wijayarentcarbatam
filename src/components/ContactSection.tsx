@@ -20,7 +20,7 @@ const ContactSection = () => {
             </p>
 
             {/* WhatsApp CTA */}
-            <a href="https://wa.me/6281234567890?text=Halo,%20saya%20ingin%20booking%20mobil" target="_blank" rel="noopener noreferrer" className="inline-block mb-8">
+            <a href="https://wa.me/6282364375846?text=Halo,%20saya%20ingin%20booking%20mobil" target="_blank" rel="noopener noreferrer" className="inline-block mb-8">
               <Button variant="hero" size="xl" className="gap-3">
                 <MessageCircle className="h-5 w-5" />
                 Chat via WhatsApp
