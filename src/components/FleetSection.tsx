@@ -128,7 +128,7 @@ const FleetSection = () => {
                     </span>
                     <span className="text-sm text-muted-foreground">/hari</span>
                   </div>
-                  <a href="https://wa.me/6281234567890" target="_blank" rel="noopener noreferrer">
+                  <a href="https://wa.me/6282364375846?text=Halo,%20saya%20ingin%20booking%20mobil" target="_blank" rel="noopener noreferrer">
                     <Button variant="accent" size="sm">
                       Booking
                     </Button>
@@ -141,7 +141,7 @@ const FleetSection = () => {
 
         {/* View All CTA */}
         <div className="text-center mt-12">
-          <a href="https://wa.me/6281234567890" target="_blank" rel="noopener noreferrer">
+          <a href="https://wa.me/6282364375846?text=Halo,%20saya%20ingin%20melihat%20semua%20armada" target="_blank" rel="noopener noreferrer">
             <Button variant="outline" size="lg">
               Lihat Semua Armada
             </Button>
