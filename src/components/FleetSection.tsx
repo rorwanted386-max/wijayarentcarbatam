@@ -34,7 +34,7 @@ const cars = [
     seats: 7,
     transmission: "Matic",
     fuel: "Diesel/Bensin",
-    price: "800.000",
+    price: "1.000.000",
     rating: 4.9,
     image: innovaImg,
     popular: false,
